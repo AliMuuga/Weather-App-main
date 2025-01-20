@@ -58,4 +58,5 @@ or create an issue on the GitHub repository.
 
 I hope you find the WeatherSense useful for checking weather conditions in your area or any city you're interested in. 
 Enjoy using the app and stay informed about the weather!
-
+# Deployed project
+https://weather-app-main-mu.vercel.app/
