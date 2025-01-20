@@ -46,7 +46,7 @@ WeatherSense is created by me , which means you are free to use, modify, and dis
 
 # Acknowledgements
 
-1. I would like to thanks love Babbar for his Web Dev Course. His Course made all this possible.
+1. I would like to thanks to ALX
 2. I also used "openweathermap" API for this project which is a free API and that helped me a lot for this project
 
 # Contact
